@@ -1,17 +1,7 @@
 # Currency_Exchange App
 
 
-![image](https://github.com/moniruzzaman76/Currency-Exchange-App/assets/107347380/3abf9c06-aa99-4602-9c00-396fc918daad)
-
-
-
-
-
-![image](https://github.com/moniruzzaman76/Currency-Exchange-App/assets/107347380/524b3495-f840-471c-86a3-b5c31e9ca85f)
-
-
-
-
+![image](https://github.com/moniruzzaman76/Currency-Exchange-App/assets/107347380/01020a5b-b979-4fb0-b1f4-c4fbc6d8dc99)
 
 
 
